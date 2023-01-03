@@ -1,1 +1,1 @@
-An Aritifial Neural Network Approach for Analyze the Leaving of Customers from A Bank
+Analysis of Leaving of Customers from A Bank
